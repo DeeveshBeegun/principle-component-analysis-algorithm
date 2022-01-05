@@ -1,0 +1,15 @@
+# Do not track the content of these folders
+Eigen/
+
+
+pca
+
+
+
+# Do not track these compiled source
+
+*.o
+*.exe
+*.ppm
+*.gch
+*.txt
